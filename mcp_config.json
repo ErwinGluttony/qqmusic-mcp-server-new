@@ -1,0 +1,9 @@
+{
+  "mcpServers": {
+    "qqmusic-tools": {
+      "type": "stdio",
+      "command": "python",
+      "args": ["-m", "qqmusic"]
+    }
+  }
+}
